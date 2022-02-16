@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to my home page
 
-You can use the [editor on GitHub](https://github.com/sridarshans/sridarshans.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can find details on my recent projects and posts on this page. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Follow this page to stay updated on my work.
 
-### Markdown
+## About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Senior Software Engineer at Micro Focus with working experience in Java, Angular, and Docker.
+Strong engineering professional with a Bachelor's degree topping the university, focused in Computer Science from Amrita Vishwa Vidyapeetham, Coimbatore.
+Currently pursuing a Master's degree in Software Engineering from Birla Institute of Technology and Science, Pilani.
+
+## Connect With Me
+
+You can connect with me on [Linkedin](https://www.linkedin.com/in/sri-darshan-s/) [Twitter](https://twitter.com/sridarshans)
+
 
 ```markdown
 Syntax highlighted code block
