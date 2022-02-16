@@ -14,6 +14,15 @@ Currently pursuing a Master's degree in Software Engineering from Birla Institut
 
 You can connect with me on [Linkedin](https://www.linkedin.com/in/sri-darshan-s/) [Twitter](https://twitter.com/sridarshans)
 
+### Experience
+- **Service Desk Engineer - Intern** _FireEye, Inc._
+- **Senior Software Engineer** _Micro Focus_
+- **Software Engineer** _Micro Focus_
+- **Associate Software Engineer** _Micro Focus_
+- **Software Engineer - Intern** _Micro Focus_
+
+
+
 
 ```markdown
 Syntax highlighted code block
